@@ -1,0 +1,51 @@
+{% extends 'layout.html' %}
+
+{% block breadcrumbs %}
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ url_for('index') }}">Home</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ category }}</li>
+    </ol>
+  </nav>
+{% endblock %}
+
+{% block content %}
+  <h2 class="mb-4">{{ category }}</h2>
+
+  {% if subcategories %}
+    <div class="row">
+      {% for subcategory, items in subcategories.items() %}
+        <div class="col-md-4 mb-4">
+          <div class="card h-100 shadow-sm">
+  <img src="{{ url_for('static', filename='images/pics/' ~ subcategory|lower ~ '.png') }}"
+       class="card-img-top item-thumb" alt="{{ subcategory }}">
+  <div class="card-body text-center">
+    <h5 class="card-title">{{ subcategory }}</h5>
+    <a href="{{ url_for('subcategory_view',
+                        category_name=category.lower(),
+                        subcategory_name=subcategory.lower()) }}"
+       class="btn btn-primary">View {{ subcategory }}</a>
+  </div>
+</div>
+
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <div class="alert alert-info">
+      This category has no subcategories.
+    </div>
+    <a href="{{ url_for('category_all_items', category=category.lower()) }}"
+       class="btn btn-primary">View All {{ category }}</a>
+  {% endif %}
+
+  {% if uncategorized_items %}
+    <hr>
+    <h3>Other Items</h3>
+    <ul>
+      {% for item in uncategorized_items %}
+        <li><a href="{{ url_for('item_detail', item_id=item.id) }}">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endblock %}

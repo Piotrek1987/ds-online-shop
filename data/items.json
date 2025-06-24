@@ -1,0 +1,1163 @@
+[
+  {
+    "id": 1,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Battle Axe",
+    "description": "Standard battle axe. Inflicts regular damage, making it effective in various situations. Powerful attack due to its weight, but one wrong swing leaves the wielder wide open, so timing and proximity to the enemy must be judged carefully.",
+    "price": 1401,
+    "image_url": "/static/images/weapons/axes/battle_axe.png"
+  },
+  {
+    "id": 2,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Black Knight Greataxe",
+    "description": "Greataxe of the Black Knights who wander Lordran. Used to face Chaos demons. The large motion that puts the weight of the body into the attack reflects the great size of their adversaries long ago.",
+    "price": 2555,
+    "image_url": "/static/images/weapons/axes/black_knight_greataxe.png"
+  },
+  {
+    "id": 3,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Butcher Knife",
+    "description": "Giant butcher knife wielded by the Undead man-eating cook lurking in the Depths. More of a tool for subduing and preparing live catches than an actual weapon. Those who have faced this deadly blade have a deeper sense of how helpless prey must feel.",
+    "price": 746,
+    "image_url": "/static/images/weapons/axes/butcher_knife.png"
+  },
+  {
+    "id": 4,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Demon's Greataxe",
+    "description": "Carved from the bones of fellow demons. Wielded by the lesser Taurus demons. This axe is imbued with no special power, but can merrily beat foes to a pulp, providing you have the strength to wield it.",
+    "price": 3266,
+    "image_url": "/static/images/weapons/axes/demons_greataxe.png"
+  },
+  {
+    "id": 5,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Gargoyle Tail Axe",
+    "description": "Sliced tail of the gargoyle guarding the Bell of Awakening in the Undead Church or patrolling in Anor Londo. Can be used as a bronze battle axe. Bends dramatically during large attacks, owing to its nature as a tail.",
+    "price": 4320,
+    "image_url": "/static/images/weapons/axes/gargoyle_tail_axe.png"
+  },
+  {
+    "id": 6,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Greataxe",
+    "description": "This greataxe is a veritable mass of iron. Its weight sends foes flying, but makes it difficult to handle without inhuman strength. Any miss makes one very vulnerable, as each swing requires the full force of the body.",
+    "price": 1004,
+    "image_url": "/static/images/weapons/axes/greataxe.png"
+  },
+  {
+    "id": 7,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Hand Axe",
+    "description": "Small hand axe. Appears identical to a lumberjack's tool, but has an ideal weight and strength, and is easy to handle. One wrong swing leaves the wielder wide open, so timing and proximity to the enemy must be judged carefully.",
+    "price": 450,
+    "image_url": "/static/images/weapons/axes/hand_axe.png"
+  },
+  {
+    "id": 8,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Avelyn",
+    "description": "Repeating crossbow cherished by the weapon craftsman Eidas. Its elaborate design makes it closer to a work of art than a weapon. Intricate mechanism makes heavy damage possible through triple-shot firing of bolts. but in fact each bolt inflicts less damage.",
+    "price": 786,
+    "image_url": "/static/images/weapons/bows/avelyn.png"
+  },
+  {
+    "id": 9,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Dragonslayer Greatbow",
+    "description": "Bow of the Dragonslayers, led by Hawkeye Gough, one of Gwyn's Four Knights. This bow's unusual size requires that it be anchored to the ground when fired. Only uses specialized great arrows.",
+    "price": 3655,
+    "image_url": "/static/images/weapons/bows/dragonslayer_greatbow.png"
+  },
+  {
+    "id": 10,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Gough'S Greatbow",
+    "description": "Greatbow used by Hawkeye Gough, of Lord Gwyn's Four Knights, for dragon slaying. This bow is larger than even those used by the famed Dragonslayers. Only their leader, Gough, had the strength to handle it.",
+    "price": 3845,
+    "image_url": "/static/images/weapons/bows/Gough's Greatbow.png"
+  },
+  {
+    "id": 11,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Heavy Crossbow",
+    "description": "Powerful large crossbow. While bows require both hands, a crossbow is held in one, but arming each bolt takes time.",
+    "price": 1208,
+    "image_url": "/static/images/weapons/bows/heavy_crossbow.png"
+  },
+  {
+    "id": 12,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Light Crossbow",
+    "description": "Standard crossbow issued to soldiers. While bows require both hands, a crossbow is held in one, but arming each bolt takes time.",
+    "price": 524,
+    "image_url": "/static/images/weapons/bows/light_crossbow.png"
+  },
+  {
+    "id": 13,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Longbow",
+    "description": "Large bow. Projectile weapon for experienced hunters. ",
+    "price": 962,
+    "image_url": "/static/images/weapons/bows/longbow.png"
+  },
+  {
+    "id": 14,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Short Bow",
+    "description": "Small bow. Standard projectile weapon.",
+    "price": 511,
+    "image_url": "/static/images/weapons/bows/short_bow.png"
+  },
+  {
+    "id": 15,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Sniper Crossbow",
+    "description": "Large crossbow with long distance used by Carim snipers. Often used with sniper bolts. But while crossbows are normally easy to use, the Sniper Crossbow requires dexterity.",
+    "price": 1920,
+    "image_url": "/static/images/weapons/bows/sniper_crossbow.png"
+  },
+  {
+    "id": 16,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Blacksmith Giant Hammer",
+    "description": "Wooden hammer of the giant blacksmith in Anor Londo who handles lightning weapons. The giant blacksmith forges with this wooden hammer, as it would be hazardous to handle lightning weapons with metals.",
+    "price": 1721,
+    "image_url": "/static/images/weapons/hammers/blacksmith_giant_hammer.png"
+  },
+  {
+    "id": 17,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Blacksmith Hammer",
+    "description": "Metal hammer of Andre of Astora, blacksmith at the Old Church. Can be used as a strike weapon, but better left in the hands of its talented owner.",
+    "price": 1049,
+    "image_url": "/static/images/weapons/hammers/blacksmith_hammer.png"
+  },
+  {
+    "id": 18,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Demon's Great Hammer",
+    "description": "Demon weapon built from the stone archtrees. Used by lesser demons at North Undead Asylum. This hammer is imbued with no special power, but will merrily beat foes to a pulp, provided you have the strength to wield it.",
+    "price": 4419,
+    "image_url": "/static/images/weapons/hammers/demons_great_hammer.png"
+  },
+  {
+    "id": 19,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Dragon Tooth",
+    "description": "Created from an everlasting dragon tooth. Legendary great hammer of Havel the Rock. The dragon tooth will never break as it is harder than stone, and it grants its wielder resistance to magic and flame.",
+    "price": 6495,
+    "image_url": "/static/images/weapons/hammers/dragon_tooth.png"
+  },
+  {
+    "id": 20,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Great Club",
+    "description": "Giant tree branch serves as a wooden club. Smashes enemies from upside the head. The leaping attack is a trademark of clubs, and this giant club is no exception.",
+    "price": 1999,
+    "image_url": "/static/images/weapons/hammers/great_club.png"
+  },
+  {
+    "id": 21,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Hammer Of Vamos",
+    "description": "      Metal hammer of Vamos, a skeleton blacksmith deep within the Catacombs who rarely speaks. Can be used as a strike weapon, but better left in the hands of its talented owner. ",
+    "price": 4305,
+    "image_url": "/static/images/weapons/hammers/hammer_of_vamos.png"
+  },
+  {
+    "id": 22,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Mace",
+    "description": "Iron hammer with a protrusive pommel. This simple bladeless strike weapon is effective against most foes, and can break the guard of a shield. However, one miss leaves one wide open.",
+    "price": 815,
+    "image_url": "/static/images/weapons/hammers/mace.png"
+  },
+  {
+    "id": 23,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Morning Star",
+    "description": "Hammer with a sharp spike on its pommel. One of the more barbaric cleric weapons. Uniquely, this hammer inflicts thrust damage, and causes bleeding.",
+    "price": 3616,
+    "image_url": "/static/images/weapons/hammers/morning_star.png"
+  },
+  {
+    "id": 24,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Smough's Hammer",
+    "description": "Great Hammer from the soul of executioner Smough, who guards the cathedral in the forsaken city of Anor Londo. Smough loved his work, and ground the bones of his victims into his own feed, ruining his hopes of being ranked with the Four Knights.",
+    "price": 4631,
+    "image_url": "/static/images/weapons/hammers/smoughs_hammer_1.png"
+  },
+  {
+    "id": 25,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Warpick",
+    "description": "Hammer with a large beak-shaped pommel. Originally a pickaxe; redesigned for battle. This simple but deadly weapon hits heavily with thrust damage, such that it easily cracks metal armor.",
+    "price": 1562,
+    "image_url": "/static/images/weapons/hammers/warpick.png"
+  },
+  {
+    "id": 26,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Black Knight Halberd",
+    "description": "Halberd of the black knights who wander Lordran. Used to face chaos demons. The large motion that puts the weight of the body into the attack reflects the great size of their adversaries long ago. ",
+    "price": 6874,
+    "image_url": "/static/images/weapons/spears/black_knight_halberd.png"
+  },
+  {
+    "id": 27,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Demon's Spear",
+    "description": "Carved from the bones of fellow demons. Wielded by the slim lesser Batwing demons. The weapon of these chaos demons wandering Anor Londo are different from those of other chaos demons, and are imbued with lightning.",
+    "price": 1958,
+    "image_url": "/static/images/weapons/spears/demons_spear.png"
+  },
+  {
+    "id": 28,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Gargoyle's Halberd",
+    "description": "Halberd of the gargoyle guarding the Bell of Awakening in the Undead Church. Perfectly standard bronze halberd without any special power.",
+    "price": 1459,
+    "image_url": "/static/images/weapons/spears/gargoyles_halberd.png"
+  },
+  {
+    "id": 29,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Great Scythe",
+    "description": "Weapon with a long curved blade. Converted from a wheat-harvesting tool. The magnificent sharp curved blade instills fear in opponents. Perhaps it is their survival instinct at work.",
+    "price": 1803,
+    "image_url": "/static/images/weapons/spears/great_scythe.png"
+  },
+  {
+    "id": 30,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Lucerne",
+    "description": "Halberd with a large, hard beak-like protrusion. Inflicts thrust damage. Instead of thrusting like a spear, the wielder of the Lucerne aims to club the head with its hard beak.",
+    "price": 639,
+    "image_url": "/static/images/weapons/spears/lucerne.png"
+  },
+  {
+    "id": 31,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Moonlight Butterfly Horn",
+    "description": "Weapon born from the mystical creature of the Darkroot Garden, the Moonlight Butterfly. The horns of the butterfly, a being created by Seath, are imbued with a pure magic power.",
+    "price": 3860,
+    "image_url": "/static/images/weapons/spears/moonlight_butterfly_horn_9.png"
+  },
+  {
+    "id": 32,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Silver Knight Spear",
+    "description": "The silver knights of Anor Londo guard the city using this beautifully slender weapon. The spear can be wielded by both hands in a focused thrust that uses one's body weight, or swung in a large sweeping motion.",
+    "price": 2807,
+    "image_url": "/static/images/weapons/spears/silver_knight_spear.png"
+  },
+  {
+    "id": 33,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Titanite Catch Pole",
+    "description": "Weapon of the titanite demon, a faceless stone monster born from titanite slab. One of the enchanted weapons, perhaps from residual power of the titanite slab. Known for its leaping attack which comes smashing down on foes from above.",
+    "price": 2447,
+    "image_url": "/static/images/weapons/spears/titanite_catch_pole.png"
+  },
+  {
+    "id": 34,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Black Knight Greatsword",
+    "description": "Greatsword of the black knights who wander Lordran. Used to face chaos demons. The large motion that puts the weight of the body into the attack reflects the great size of their adversaries long ago.",
+    "price": 4455,
+    "image_url": "/static/images/weapons/swords/black_knight_greatsword.png"
+  },
+  {
+    "id": 35,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Black Knight Sword",
+    "description": "Greatsword of the Black Knights who wander Lordran. Used to face chaos demons. The Large motion that puts the weight of the body into the attack reflects the great size of their adversaries long ago.",
+    "price": 2477,
+    "image_url": "/static/images/weapons/swords/black_knight_sword.png"
+  },
+  {
+    "id": 36,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Broadsword",
+    "description": "The wide blade of this straight sword emphasizes slicing and has no thrust attack. The horizontal sweeping motion makes this sword effective against multiple enemies.",
+    "price": 1661,
+    "image_url": "/static/images/weapons/swords/broadsword.png"
+  },
+  {
+    "id": 37,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Claymore",
+    "description": "This larger type of greatsword is normally wielded with two hands due to its weight. This highly flexible greatsword can be used to attack in swings or thrusts.",
+    "price": 3284,
+    "image_url": "/static/images/weapons/swords/claymore.png"
+  },
+  {
+    "id": 38,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Demon Great Machete",
+    "description": "The lesser Capra demons use these greatswords in pairs. The blade is cast iron and hooked. The sword is imbued with no particular magic, but for those who have the strength, its great weight will smash foes mercilessly.",
+    "price": 4684,
+    "image_url": "/static/images/weapons/swords/demon_great_machete.png"
+  },
+  {
+    "id": 39,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Drake Sword",
+    "description": "This sword, one of the rare dragon weapons, is formed by a drake's tail. Drakes are seen as undeveloped imitators of the dragons, but they are likely their distant kin. The sword is imbued with a mystical power, to be released when held with both hands.",
+    "price": 1368,
+    "image_url": "/static/images/weapons/swords/Drake_Sword.png"
+  },
+  {
+    "id": 40,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Estoc",
+    "description": "The largest of the thrusting swords. Can pierce an armored knight in one thrust. The blade is also sharp, allowing slicing as well.",
+    "price": 2675,
+    "image_url": "/static/images/weapons/swords/estoc.png"
+  },
+  {
+    "id": 41,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Gold Tracer",
+    "description": "Curved sword used by the Lord's Blade Ciaran, one of Gwyn's Four Knights. Ciaran brandishes her sword in a mesmerizing dance, etching the darkness with dire streaks of gold.",
+    "price": 2837,
+    "image_url": "/static/images/weapons/swords/Gold Tracer.png"
+  },
+  {
+    "id": 42,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Greatsword Of Artorias",
+    "description": "Sword born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias. Sir Artorias hunted the Darkwraiths, and his sword strikes harder against dark servants.",
+    "price": 4617,
+    "image_url": "/static/images/weapons/swords/greatsword_of_artorias.png"
+  },
+  {
+    "id": 43,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Jagged Ghost Blade",
+    "description": "Jagged blade wielded by New Londo ghosts. Violent thrust attack. One of the cursed weapons. Inflicts damage to ghosts.",
+    "price": 2545,
+    "image_url": "/static/images/weapons/swords/jagged_ghost_blade.png"
+  },
+  {
+    "id": 44,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Longsword",
+    "description": "Widely-used standard straight sword, only matched in ubiquity by the shortsword. An accessible sword which inflicts consistent regular damage and high slash damage, making it applicable to a variety of situations.",
+    "price": 3784,
+    "image_url": "/static/images/weapons/swords/Longsword.png"
+  },
+  {
+    "id": 45,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Quelaag's Furysword",
+    "description": "A curved sword born from the soul of Quelaag, daughter of the Witch of Izalith, who was transformed into a chaos demon. Like Quelaag's body, the sword features shells, spikes, humanity and a coating of chaos fire. Power affected by wielder's humanity.",
+    "price": 864,
+    "image_url": "/static/images/weapons/swords/quelaags_furysword.png"
+  },
+  {
+    "id": 46,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Shortsword",
+    "description": "This small straight sword is widely used, to an extent only matched by the longsword. An accessible sword which inflicts consistent regular damage and high slash damage, making it applicable to a variety of situations.",
+    "price": 610,
+    "image_url": "/static/images/weapons/swords/shortsword.png"
+  },
+  {
+    "id": 47,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Uchigatana",
+    "description": "Katana forged in an Eastern land. Known for its brisk slashing motions. The Uchigatana cuts beautifully and causes bleeding, but its blade is easily nicked.",
+    "price": 1431,
+    "image_url": "/static/images/weapons/swords/uchigatana.png"
+  },
+  {
+    "id": 48,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Zweihander",
+    "description": "One of the gigantic straight greatswords. As the name suggests, the Zweihander is held with two hands, but its wielder must still be inhumanly strong. It is this great weight that sends foes flying when hit solidly.",
+    "price": 2322,
+    "image_url": "/static/images/weapons/swords/zweihander.png"
+  },
+  {
+    "id": 49,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Gravelord Sword Dance",
+    "description": "Miracle known only by the servants of the first dead, Gravelord Nito. Giant Gravelord swords jut out in vicinity. Nito sleeps deep within the Giant Catacombs, quietly overseeing all death, and waiting for his servants to usher in the Eye of Death.",
+    "price": 3385,
+    "image_url": "/static/images/spells/miracles/Gravelord_Sword_Dance.png"
+  },
+  {
+    "id": 50,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Heal",
+    "description": "Elementary miracle cast by clerics. Restores HP. To cast a miracle, the caster learns a tale of the Gods, and says a prayer to be blessed by its revelations. Heal is the shortest of such miraculous tales.",
+    "price": 587,
+    "image_url": "/static/images/spells/miracles/Heal.png"
+  },
+  {
+    "id": 51,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Homeward",
+    "description": "Great miracle cast by advanced clerics. Return to the last bonfire rested at. Would normally link to one's homeland, only the curse of the Undead has distorted its power, redirecting casters to a bonfire. Or perhaps for Undead, this serves as home?",
+    "price": 2428,
+    "image_url": "/static/images/spells/miracles/Homeward.png"
+  },
+  {
+    "id": 52,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Karmic Justice",
+    "description": "Miracle of the black-haired witch Velka. Temporary auto counter vs. heavy damage. For each sin there is a punishment, and it is the task of Goddess Velka to define the sin, and mete out the punishment.",
+    "price": 942,
+    "image_url": "/static/images/spells/miracles/Karmic_Justice.PNG"
+  },
+  {
+    "id": 53,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Lightning Spear",
+    "description": "Miracle passed down to those bound by the Warrior of Sunlight covenant. Hurl lightning spear. Lightning spears inflict rare lightning damage, and are very effective against magic, fire, and most of all, dragons.",
+    "price": 3984,
+    "image_url": "/static/images/spells/miracles/Lightning_Spear.png"
+  },
+  {
+    "id": 54,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Magic Barrier",
+    "description": "Miracle of Bishop Havel the Rock. Cover body in defensive magic coating. This coating greatly boosts magic defense, assisting warriors who must face the magic which Bishop Havel countered so proficiently.",
+    "price": 1227,
+    "image_url": "/static/images/spells/miracles/Magic_Barrier.png"
+  },
+  {
+    "id": 55,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Replenishment",
+    "description": "Common miracle amongst cleric knights. Gradual HP restoration. Beware of the cleric knight blessed by Replenishment, for he shall not fall easily.",
+    "price": 2585,
+    "image_url": "/static/images/spells/miracles/Replenishment.png"
+  },
+  {
+    "id": 56,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Seek Guidance",
+    "description": "Miracle of clerics on an Undead mission. Display more guidance from other worlds. Guidance facilitates communication between Undead, but their value varies greatly. A balance of faith and wisdom is required.",
+    "price": 831,
+    "image_url": "/static/images/spells/miracles/Seek_Guidance.png"
+  },
+  {
+    "id": 57,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Sunlight Blade",
+    "description": "Miracle wielded by Lord Gwyn's firstborn. Boost right weapon with rays of Sun. The power of sunlight, manifested as lightning, is very effective against dragons. When the eldest son was stripped of his deific status, he left this on his father's coffin, perhaps as a final farewell.",
+    "price": 1810,
+    "image_url": "/static/images/spells/miracles/Sunlight_Blade.png"
+  },
+  {
+    "id": 58,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Wrath Of The Gods",
+    "description": "Primal form of Force. Create powerful shockwave. Wrath of the Gods was an epic tale that tattered over time and developed into the modern Force. This primal form of Force emits a shockwave that also inflicts damage.",
+    "price": 3087,
+    "image_url": "/static/images/spells/miracles/Wrath_of_the_Gods.png"
+  },
+  {
+    "id": 59,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Chaos Storm",
+    "description": "Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. Erect localized chaos fire pillars which change strength depending on humanity. The Witch of Izalith, in an ambitious attempt to copy the First Flame, created instead the Flame of Chaos, a twisted bed of life.",
+    "price": 3447,
+    "image_url": "/static/images/spells/pyromancies/Chaos_Storm.png"
+  },
+  {
+    "id": 60,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Combustion",
+    "description": "Elementary pyromancy. Create powerful flame in hand. One of the most basic pyromancies. For this very reason, the flame thus created is fierce.",
+    "price": 1029,
+    "image_url": "/static/images/spells/pyromancies/Combustion.png"
+  },
+  {
+    "id": 61,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Fireball",
+    "description": "Standard pyromancy of the Great Swamp. Hurl fireball. The fire damage caused by fireballs makes them effective against corporeal beasts and Undead, who by nature fear flame.",
+    "price": 1043,
+    "image_url": "/static/images/spells/pyromancies/Fireball.png"
+  },
+  {
+    "id": 62,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Firestorm",
+    "description": "Primal pyromancy taught by Quelana of Izalith. Erect fire pillars in vicinity. The storm of flame is indiscriminate, and incinerates all nearby life.",
+    "price": 1215,
+    "image_url": "/static/images/spells/pyromancies/Firestorm.png"
+  },
+  {
+    "id": 63,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Fire Orb",
+    "description": "Pyromancy which improves upon Fireball. Hurl fire orb. The flaming fire orb explodes upon impact, causing fire splash damage in a spectacle which seems to symbolize the strength of the fire-manipulating pyromancers.",
+    "price": 1459,
+    "image_url": "/static/images/spells/pyromancies/Fire_Orb.png"
+  },
+  {
+    "id": 64,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Fire Surge",
+    "description": "Pyromancy foreign to the Great Swamp. Create a surge of flame from palm of hand. Not all pyromancy originates in the Great Swamp. One hears rumors of unknown pyromancers inhabiting various lands, and this spell is the work of one such outlander.",
+    "price": 2693,
+    "image_url": "/static/images/spells/pyromancies/Fire_Surge.png"
+  },
+  {
+    "id": 65,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Great Chaos Fireball",
+    "description": "Art of the Flame of Chaos, which engulfed the Witch of Izalith and her daughters. The Flame of Chaos can melt stone, producing a short-lived lava glob.",
+    "price": 3448,
+    "image_url": "/static/images/spells/pyromancies/Great_Chaos_Fireball.png"
+  },
+  {
+    "id": 66,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Great Fireball",
+    "description": "Ultimate fireball pyromancy. Hurl a giant fireball. Salaman the Master Pyromancer, also called the Great Fireball after this spell, believed pyromancy was rooted in an adoration of fire. Those who acquire this spell usually agree.",
+    "price": 2805,
+    "image_url": "/static/images/spells/pyromancies/Great_Fireball.png"
+  },
+  {
+    "id": 67,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Poison Mist",
+    "description": "Unique pyromancy crafted by Eingyi, considered a heretic even at the Great Swamp. Create poison mist. Eingyi became an egg-bearing Undead who serves a deformed young girl who speaks an untelligible tongue.",
+    "price": 1644,
+    "image_url": "/static/images/spells/pyromancies/Poison_Mist.png"
+  },
+  {
+    "id": 68,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Power Within",
+    "description": "Pyromancy of Carmina, who harnessed the power of flame to actualize the inner-self. Short strength/endurance boost, but lose HP. Excessive power eats away the life-force of its caster, and like all dangerous spells, Power Within was kept secret for eons.",
+    "price": 3967,
+    "image_url": "/static/images/spells/pyromancies/Power_Within.png"
+  },
+  {
+    "id": 69,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Aural Decoy",
+    "description": "Sorcery used by playful sorcerers. Lure enemies away by creating a sound originating in the distance. This spell is not the first choice for serious sorcerers, but it has a surprising amount of applications, some of them extremely effective.",
+    "price": 1308,
+    "image_url": "/static/images/spells/sorceries/Aural_Decoy.png"
+  },
+  {
+    "id": 70,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Great Magic Weapon",
+    "description": "Sorcery which improves upon Magic Weapon. High magic augmentation: right weapon. At Vinheim Dragon School, only magic swordsmen on special orders are allowed to learn this spell which grants powerful augmentation to various weapons.",
+    "price": 1378,
+    "image_url": "/static/images/spells/sorceries/Great_Magic_Weapon.png"
+  },
+  {
+    "id": 71,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Heavy Soul Arrow",
+    "description": "Soul sorcery emphasizing power. Fire heavy soul arrow. A more powerful, but also slower sorcery. Difficult to use due to a long cool down and a limitation on the number of castings.",
+    "price": 1523,
+    "image_url": "/static/images/spells/sorceries/Heavy_Soul_Arrow.png"
+  },
+  {
+    "id": 72,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Hidden Body",
+    "description": "Ancient sorcery of the lost land of Oolacile. Turns body nearly invisible. Although perfect invisibility is unachievable due to the risk of dissipation, the caster need only stand still for a moment to blend in to environs with astounding camouflage.",
+    "price": 2587,
+    "image_url": "/static/images/spells/sorceries/Hidden_Body.png"
+  },
+  {
+    "id": 73,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Hidden Weapon",
+    "description": "Ancient sorcery of the lost land of Oolacile. Turns right weapon invisible. Not a simple augmentation, making it dependent on the skill of its caster. An example of the capacity of Oolacile sorceries to control light.",
+    "price": 1170,
+    "image_url": "/static/images/spells/sorceries/Hidden_Weapon.png"
+  },
+  {
+    "id": 74,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Homing Soulmass",
+    "description": "Sorcery developed by Big Hat Logan: Homing soulmass. Life originates in the soul; no wonder the soulmass draws toward it. This sorcery is a window into seeker Logan's methods.",
+    "price": 2252,
+    "image_url": "/static/images/spells/sorceries/Homing_Soulmass.png"
+  },
+  {
+    "id": 75,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Hush",
+    "description": "Sorcery developed by a certain surreptitious sorceror at Vinheim Dragon School. Masks all noises of caster. Effectively, Vinheim is controlled by the Dragon School, and it is no wonder that the town has its share of dark secrets.",
+    "price": 961,
+    "image_url": "/static/images/spells/sorceries/Hush.png"
+  },
+  {
+    "id": 76,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Soul Arrow",
+    "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials.",
+    "price": 1251,
+    "image_url": "/static/images/spells/sorceries/Soul_Arrow.png"
+  },
+  {
+    "id": 77,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Soul Spear",
+    "description": "Sorcery developed by Big Hat Logan. Fire piercing soul spear. A symbol of Logan's strength, the soul spear is referenced repeatedly in the legends, and is said to be on par with Lord Gwyn's lightning.",
+    "price": 2085,
+    "image_url": "/static/images/spells/sorceries/Soul_Spear.png"
+  },
+  {
+    "id": 78,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "White Dragon Breath",
+    "description": "Sorcery developed by Logan during his infatuation with Seath the Scaleless. Emit crystal breath of Seath the Scaleless. Although it no longer causes curses, what madness caused old Big Hat to appropriate this frightful power of the ancient dragons?",
+    "price": 1942,
+    "image_url": "/static/images/spells/sorceries/White_Dragon_Breath.png"
+  },
+  {
+    "id": 79,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Black Iron Greatshield",
+    "description": "Greatshield of the might knight Tarkus. Built of special black iron and even heavier than Knight Berenike's tower shield. Especially resistant to fire attacks and effective for shield bashing.",
+    "price": 3195,
+    "image_url": "/static/images/shields/black_iron_greatshield.png"
+  },
+  {
+    "id": 80,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Black Knight Shield",
+    "description": "Shield of the Black Knights that wander Lordran. A flowing canal is chiseled deeply into its face. Long ago, the black knights faced the chaos demons, and were charred black, but their shields became highly resistant to fire.",
+    "price": 4060,
+    "image_url": "/static/images/shields/black_knight_shield.png"
+  },
+  {
+    "id": 81,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Bloodshield",
+    "description": "The bloodshield spoken of in the lost legends. The red blood is slightly enchanted, and boost various resistances.",
+    "price": 2490,
+    "image_url": "/static/images/shields/bloodshield.png"
+  },
+  {
+    "id": 82,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Bonewheel Shield",
+    "description": "Giant wooden wheel encircled by spikes. Half-melded to a strange skeleton. Can be used as a great shield, only for the great gaps. But at least the spikes turn into weapons with a good spin. Strange indeed!",
+    "price": 1775,
+    "image_url": "/static/images/shields/bonewheel_shield.png"
+  },
+  {
+    "id": 83,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Buckler",
+    "description": "Very small round metal shield. Parry attacks with large center protrusion.  Small shields are always less stable, but landing critical hits after parry is easier. This shield is specialized for parrying.",
+    "price": 500,
+    "image_url": "/static/images/shields/buckler.png"
+  },
+  {
+    "id": 84,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Crystal Ring Shield",
+    "description": "Weapon born from the mystical creature of the Darkroot Garden, the Moonlight Butterfly. Imbued with a powerful crystal power, like the butterfly created by Seath the Scaleless. Can emit crystal light rings.",
+    "price": 1554,
+    "image_url": "/static/images/shields/crystal_ring_shield_1.png"
+  },
+  {
+    "id": 85,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Eagle Shield",
+    "description": "Greatshield with an eagle design. Lightest and easiest greatshield to handle. Greatshields are very stable, and deflect attacks. But one cannot parry, and instead bashes with the shield.",
+    "price": 2672,
+    "image_url": "/static/images/shields/eagle_shield.png"
+  },
+  {
+    "id": 86,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Gargoyle's Shield",
+    "description": "Bronze shield of the gargoyle guarding the Bell of Awakening in the Undead Church. The gargoyle's skin is tough by itself, and perhaps its shield may have been a prop, for it is a rare example of a metal shield that does not reduce physical damage 100%.",
+    "price": 3357,
+    "image_url": "/static/images/shields/gargoyles_shield.png"
+  },
+  {
+    "id": 87,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Giant Shield",
+    "description": "Greatshield made of bronze and marcasite. Used by the giant sentinels of Anor Londo. Marcasite, or white iron, is effective against non-physical damage, but as the shield is designed for the giant sentineles, its weight is unbearable.",
+    "price": 2630,
+    "image_url": "/static/images/shields/giant_shield.png"
+  },
+  {
+    "id": 88,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Greatshield Of Artorias",
+    "description": "Shield born from the soul of the great grey wolf Sif, guardian of the grave of the Abysswalker Knight Artorias. Boasts consistent defense and divine protection against various status effects. ",
+    "price": 2015,
+    "image_url": "/static/images/shields/greatshield_of_artorias_1.png"
+  },
+  {
+    "id": 89,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Havel's Greatshield",
+    "description": "Greatshield of the legendary Havel the Rock. Cut straight from a great slab of stone. This greatshield is imbued with the magic of Havel, proves a strong defense, and is incredibly heavy.  A true divine heirloom on par with the Dragon tooth.",
+    "price": 4015,
+    "image_url": "/static/images/shields/havels_greatshield.png"
+  },
+  {
+    "id": 90,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Knight Shield",
+    "description": "This medium metal shield is elegantly carved and painted. Although it is thought to have been used by ancient knights of nobility, its defense and capabilities are similar to other shields.",
+    "price": 1925,
+    "image_url": "/static/images/shields/knight_shield.png"
+  },
+  {
+    "id": 91,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Plank Shield",
+    "description": "Makeshift shield built from wood planks. Provides minimal protection, but at a cost of moderate humiliation.",
+    "price": 433,
+    "image_url": "/static/images/shields/plank_shield.png"
+  },
+  {
+    "id": 92,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Sanctus",
+    "description": "A legendary weapon of the Way of the White, granted to an Undead paladin long ago. Once blessed with the protection of a white flame, but its power has all but faded, so that it provides only slight HP recovery.",
+    "price": 3071,
+    "image_url": "/static/images/shields/sanctus.png"
+  },
+  {
+    "id": 93,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Silver Knight Shield",
+    "description": "Shield of the Silver Knights of Anor Londo. A flowing canal is carved deep into its face. The Silver Knights stayed behind in Anor Londo to defend the illusory goddess, and their shields are blessed with her divine protection.",
+    "price": 3701,
+    "image_url": "/static/images/shields/silver_knight_shield.png"
+  },
+  {
+    "id": 94,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Spider Shield",
+    "description": "Shield of the savage mountain bandits. Uniquely-shaped with a large black spider etched upon it. Has resistance to poison.",
+    "price": 1802,
+    "image_url": "/static/images/shields/spider_shield.png"
+  },
+  {
+    "id": 95,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Sunlight Shield",
+    "description": "Shield of Solaire of Astora, Knight of Sunlight. Decorated with a holy symbol, but Solaire illustrated it himself, and it has no divine powers of its own. As it turns out, Solaire's incredible prowess is a product of his own training, and nothing else.",
+    "price": 2328,
+    "image_url": "/static/images/shields/sunlight_shield.png"
+  },
+  {
+    "id": 96,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Tower Shield",
+    "description": "Metal Greatshield. Used by the Knight Berenike, known for his heavy armour. This plate of iron is heavily defensive but ultra heavy. Greatshields are very stable, and deflect attacks. However, one cannot parry, and instead bashes with the shield.",
+    "price": 3115,
+    "image_url": "/static/images/shields/tower_shield.png"
+  },
+  {
+    "id": 97,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Blue Tearstone Ring",
+    "description": "The rare gem called tearstone has the uncanny ability to sense imminent death. This blue tearstone from Catarina boosts the defence of its wearer when in danger.",
+    "price": 2458,
+    "image_url": "/static/images/rings/Blue-Tearstone-Ring.png"
+  },
+  {
+    "id": 98,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Calamity Ring",
+    "description": "A ring enchanted by the orange eye of Kalameet, the bringer of calamity. Doubles damage received by its wearer. A useless ring befitting of no finger. Best left unknown, or at least well hidden.",
+    "price": 666,
+    "image_url": "/static/images/rings/Calamity-Ring.png"
+  },
+  {
+    "id": 99,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Cloranthy Ring",
+    "description": "This ancient ring, engraved with a large green flower, is of unknown origin. Hastens the regeneration of stamina.",
+    "price": 1614,
+    "image_url": "/static/images/rings/Cloranthy-Ring.png"
+  },
+  {
+    "id": 100,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Covenant Of Artorias",
+    "description": "This ring symbolizes Knight Artorias's covenant with the beasts of the Abyss. Its wearer, like Artorias himself can traverse the Abyss.",
+    "price": 2270,
+    "image_url": "/static/images/rings/Covenant-of-Artorias.png"
+  },
+  {
+    "id": 101,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Havel's Ring",
+    "description": "This ring was named after Havel the Rock, Lord Gwyn's old battlefield compatriot. Havel's men wore the ring to express faith in their leader and to carry a heavier load.",
+    "price": 3635,
+    "image_url": "/static/images/rings/Havel's-Ring.png"
+  },
+  {
+    "id": 102,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Orange Charred Ring",
+    "description": "An orange ring enchanted by a witch. Reduces lava damage. Since his sores were inflamed by lava from birth, his witch sisters gave him this special ring. But fool that he is, he readily dropped it, and from that spot, a terrible centipede demon was born",
+    "price": 2889,
+    "image_url": "/static/images/rings/Orange-Charred-Ring.png"
+  },
+  {
+    "id": 103,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Rare Ring Of Sacrifice",
+    "description": "This mystical ring was created in a sacrificial rite of Velka, the Goddess of Sin. The magenta-shaded ring is especially rare. Its wearer will lose nothing upon death, and will be freed from any curse whatsoever, but the ring itself breaks.",
+    "price": 1989,
+    "image_url": "/static/images/rings/Rare-Ring-of-Sacrifice.png"
+  },
+  {
+    "id": 104,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Red Tearstone Ring",
+    "description": "The rare gem called tearstone has the uncanny ability to sense imminent death. This red tearstone from Carim boosts the attack of its wearer when in danger.",
+    "price": 3707,
+    "image_url": "/static/images/rings/Red-Tearstone-Ring.png"
+  },
+  {
+    "id": 105,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Ring Of Favor And Protection",
+    "description": "A ring symbolizing the favor and protection of the goddess Fina, known in legend to possess 'fateful beauty.' This ring boosts its wearer's HP, stamina, and max equipment load, but breaks if ever removed. ",
+    "price": 4265,
+    "image_url": "/static/images/rings/Ring-of-Favor-and-Protection.png"
+  },
+  {
+    "id": 106,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Ring Of Fog",
+    "description": "Those who befriend Alvina are given this mysterious ring. It resembles a pearl with its robust pure-white fog. The ring camouflages its wearer's presence, helping to prevent detection.",
+    "price": 1669,
+    "image_url": "/static/images/rings/Ring-of-Fog.png"
+  },
+  {
+    "id": 107,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Ring Of Steel Protection",
+    "description": "This ring belonged to the Knight King Rendal. It grants its wearer protection by boosting defense against physical attacks. Of the many legends surrounding the Knight King Rendal, one of the more well-known speaks of his standing down a giant drake and slashing it to pieces.",
+    "price": 1955,
+    "image_url": "/static/images/rings/Ring-of-Steel-Protection.png"
+  },
+  {
+    "id": 108,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Slumbering Dragoncrest Ring",
+    "description": "This ring was secretly worn by a surreptitious sorcerer at Vinheim Dragon School. The ring is engraved with an everlasting dragon in silent slumber, and masks all sound emitting from its wearer.",
+    "price": 2946,
+    "image_url": "/static/images/rings/Slumbering-Dragoncrest-Ring.png"
+  },
+  {
+    "id": 109,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Tiny Being's Ring",
+    "description": "Ring made of an ancient tiny red jewel. Grants small increase to HP. Rings grant powers large and small. Their discovery, and effective use, can make one's journey easier",
+    "price": 1000,
+    "image_url": "/static/images/rings/Tiny-Being's-Ring.png"
+  },
+  {
+    "id": 110,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Armor Smithbox",
+    "description": "Tool used to etch titanite into armor for reinforcement. Rest at a bonfire to make armor reinforcement possible.",
+    "price": 3015,
+    "image_url": "/static/images/items/armor_smithbox.png"
+  },
+  {
+    "id": 111,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Bottomless Box",
+    "description": "A peculiar bottomless wooden box. Its origins are unknown. Some deride it as a symbol of unbridled avarice. Any number of items can be deposited into the box, and items can be managed while resting at a bonfire",
+    "price": 2878,
+    "image_url": "/static/images/items/bottomless_box.png"
+  },
+  {
+    "id": 112,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Crest Of Artorias",
+    "description": "This crest opens a door in the Darkroot Garden sealed by ancient magic. The door leads to the grave of Sir Artorias the Abysswalker. Many adventurers have left for the grave, but none have returned, for they make easy prey for local bandits. With such dangers, the crest can do more harm than good in the hands of the uninitiated.",
+    "price": 2065,
+    "image_url": "/static/images/items/crest-of-artorias.png"
+  },
+  {
+    "id": 113,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Demon Titanite",
+    "description": "Special titanite stolen from a faceless stone beast known as a Titanite Demon. When the nameless blacksmith deity passed, from several Slabs, great beasts arose. The power of titanite remains within them, and they still roam Lordran today. ",
+    "price": 1160,
+    "image_url": "/static/images/items/demon-titanite.png"
+  },
+  {
+    "id": 114,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Dragon Scale",
+    "description": "Dragon scale for reinforcing dragon weapons. Peeled from an ancient dragon. A dragon is inseparable from its scales, and the transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.",
+    "price": 2595,
+    "image_url": "/static/images/items/dragon-scale.png"
+  },
+  {
+    "id": 115,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Estus",
+    "description": "The Undead treasure these dull green flasks. Fill with Estus at Bonfire. Fills HP. The Estus Flasks are linked to the Fire Keepers. The Dark Tales also make reference: An emerald flask, from the Keeper's soul. She lives to protect the flame, and dies to protect it further.",
+    "price": 1020,
+    "image_url": "/static/images/items/estus.png"
+  },
+  {
+    "id": 116,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Firekeeper's Soul",
+    "description": "Soul of a long-lost Fire Keeper. Each Fire Keeper is a corporeal manifestation of her bonfire, and a draw for the humanity which is offered to her. Her soul is gnawed by infinite humanity, and can boost the power of the precious Estus Flasks. It can be used to gain Humanity and restore HP at the cost of losing the Fire Keeper soul to reinforce the Estus Flasks.",
+    "price": 3798,
+    "image_url": "/static/images/items/firekeepers-soul.png"
+  },
+  {
+    "id": 117,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Gold Pine Resin",
+    "description": "Rare pine resin which emits golden sparks. Applies lightning to right-hand weapon. Affected weapon inflicts rare lightning damage, making it effective against targets which are resilient to both magic and fire. Very effective against dragon family foes.",
+    "price": 1117,
+    "image_url": "/static/images/items/goldpine-resin.png"
+  },
+  {
+    "id": 118,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Homeward Bone",
+    "description": "Bone fragment reduced to white ash. Return to last bonfire used for resting. Bonfires are fueled by bones of the Undead. In rare cases, the strong urge of their previous owner's to seek bonfires enchants their bones with a homeward instinct.",
+    "price": 951,
+    "image_url": "/static/images/items/homeward-bone.png"
+  },
+  {
+    "id": 119,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Humanity",
+    "description": "Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP. This black sprite is called humanity, but little is known about its true nature. If the soul is the source of all life, then what distinguishes the humanity we hold within ourselves? ",
+    "price": 2602,
+    "image_url": "/static/images/items/humanity.png"
+  },
+  {
+    "id": 120,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Large Titanite Shard",
+    "description": "Titanite shard for weapon reinforcement. Larger titanite material. Reinforces standard weapons to +10, and raw weapons to +5.  Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.",
+    "price": 1085,
+    "image_url": "/static/images/items/large-titanite-shard.png"
+  },
+  {
+    "id": 121,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Lordvessel",
+    "description": "Lordvessel bestowed upon the chosen Undead who is destined to succeed Lord Gwyn. The chosen Undead is granted the art of warping between bonfires. To open the final door, place this vessel on the Firelink Altar, and fill it with powerful souls.",
+    "price": 4683,
+    "image_url": "/static/images/items/Lordvessel.png"
+  },
+  {
+    "id": 122,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Master Key",
+    "description": "This universal key opens any basic lock. Tool of the trade for thieves. But in the cursed land of the Undead, most doors are better left unopened.",
+    "price": 2075,
+    "image_url": "/static/images/items/master-key.png"
+  },
+  {
+    "id": 123,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Peculiar Doll",
+    "description": "A strange doll in strange dress. There once was an abomination who had no place in this world. She clutched this doll tightly, and eventually was drawn into a cold and lonely painted world ",
+    "price": 1261,
+    "image_url": "/static/images/items/peculiar-doll.png"
+  },
+  {
+    "id": 124,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Purging Stone",
+    "description": "Ash-colored stone encasing a skull. Secret treasure of Arstor, the Earl of Carim. Reduces curse build-up and breaks curse. Humans are helpless against curses, and can only redirect their influence. The Purging Stone does not dispel curses, but receives them as a surrogate. The stone itself was once a person or some other being.",
+    "price": 2094,
+    "image_url": "/static/images/items/purging-stone.png"
+  },
+  {
+    "id": 125,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Rite Of Kindling",
+    "description": "This secret rite allows bonfires to be bolstered further with Kindling, so that even more Estus can be collected. Kindling was a sacred rite passed down among clerics, but all Undead can imitate the process, in the same manner that they restore their Hollowing with humanity. How peculiar that humans had found little use for humanity until they turned Undead. ",
+    "price": 2982,
+    "image_url": "/static/images/items/Rite_of_Kindling.png"
+  },
+  {
+    "id": 126,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Titanite Shard",
+    "description": "Titanite shard for weapon reinforcement. Most common titanite material. Reinforces standard weapons to +5. Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.",
+    "price": 525,
+    "image_url": "/static/images/items/titanite-shard.png"
+  },
+  {
+    "id": 127,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Transient Curse",
+    "description": "Limb of the victim of a curse. Temporary curse allows engagement with ghosts. The only way to fight back against ghosts, who are cursed beings, is to become cursed oneself. The safest method, however dreadful, is to cut off an arm of the dead.",
+    "price": 1585,
+    "image_url": "/static/images/items/transient-curse.png"
+  },
+  {
+    "id": 128,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Twin Humanities",
+    "description": "Rare tiny black sprite found on corpses. Very unusual twin humanity. Use to gain 2 humanity and restore a large amount of HP. This black sprite is called humanity, but little is known about its true nature. If the soul is the source of all life, then what distinction is left for humanity?",
+    "price": 3601,
+    "image_url": "/static/images/items/twin-humanities.png"
+  },
+  {
+    "id": 129,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Twinkling Titanite",
+    "description": "This weapon-reinforcing titanite is imbued with a particularly powerful energy. Reinforces weapons that cannot be reinforced normally to +5. After this titanite was peeled from its Slab, it is said that it received a special power, but its specific nature is not clear.",
+    "price": 1300,
+    "image_url": "/static/images/items/twinkling-titanite.png"
+  }
+]

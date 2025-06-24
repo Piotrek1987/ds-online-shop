@@ -1,0 +1,43 @@
+{% extends 'layout.html' %}
+
+{% block breadcrumbs %}
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ url_for('index') }}">Home</a></li>
+      <li class="breadcrumb-item">
+        <a href="{{ url_for('category_view', category=category_name) }}">
+          {{ category_name.title() }}
+        </a>
+      </li>
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ subcategory_name.title() }}
+      </li>
+    </ol>
+  </nav>
+{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">{{ subcategory_name.title() }} in {{ category_name.title() }}</h2>
+<div class="row">
+  {% for item in items %}
+  <div class="col-md-4 d-flex">
+    <div class="card mb-4 shadow-sm w-100">
+      <img src="{{ item.image_url }}" class="card-img-top item-thumb" alt="{{ item.name }}">
+      <div class="card-body d-flex flex-column">
+        <h5 class="card-title">{{ item.name }}</h5>
+        <p class="card-text small text-muted">{{ item.description }}</p>
+        <p class="mt-auto"><strong>${{ "%.2f"|format(item.price / 100) }}</strong></p>
+        <div class="d-flex justify-content-between">
+          <a href="{{ url_for('item_detail', item_id=item.id) }}" class="btn btn-primary btn-sm">View</a>
+          <a href="{{ url_for('add_to_cart', item_id=item.id) }}" class="btn btn-success btn-sm">Add to Cart</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<a href="{{ url_for('category_view', category=category_name) }}" class="btn btn-secondary">
+  Back to {{ category_name.title() }}
+</a>
+{% endblock %}

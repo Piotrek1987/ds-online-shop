@@ -1,0 +1,55 @@
+{% extends 'layout.html' %}
+
+{% block breadcrumbs %}
+  <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ url_for('index') }}">Home</a></li>
+      <li class="breadcrumb-item">
+        <a href="{{ url_for('category_view', category=item['category']|lower) }}">
+          {{ item['category'] }}
+        </a>
+      </li>
+      {% if item['subcategory'] and item['subcategory'] != '.' %}
+        <li class="breadcrumb-item">
+          <a href="{{ url_for('subcategory_view',
+                              category_name=item['category']|lower,
+                              subcategory_name=item['subcategory']|lower) }}">
+            {{ item['subcategory'] }}
+          </a>
+        </li>
+      {% endif %}
+      <li class="breadcrumb-item active" aria-current="page">{{ item['name'] }}</li>
+    </ol>
+  </nav>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-md-6">
+    <img src="{{ item.image_url }}" class="item-detail-img img-fluid" alt="{{ item.name }}">
+  </div>
+  <div class="col-md-6">
+    <h2>{{ item.name }}</h2>
+    <p class="text-muted">{{ item.description }}</p>
+    <h4 class="text-success">${{ "%.2f"|format(item.price / 100) }}</h4>
+    <div class="mt-3">
+      <a href="{{ url_for('add_to_cart', item_id=item.id) }}" class="btn btn-success">Add to Cart</a>
+
+      {% if item['subcategory'] and item['subcategory'] != '.' %}
+        <a href="{{ url_for('subcategory_view',
+                            category_name=item['category']|lower,
+                            subcategory_name=item['subcategory']|lower) }}"
+           class="btn btn-outline-secondary">
+          Back to {{ item['subcategory'] }}
+        </a>
+      {% else %}
+        <a href="{{ url_for('category_view',
+                            category=item['category']|lower) }}"
+           class="btn btn-outline-secondary">
+          Back to {{ item['category'] }}
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}

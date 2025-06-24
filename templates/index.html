@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<h2 class="mb-4">Shop by Category</h2>
+<div class="row">
+  {% set categories = ['Weapons', 'Spells', 'Shields', 'Rings', 'Items'] %}
+  {% for category in categories %}
+  <div class="col-md-4 mb-4">
+    <div class="card h-100 shadow-sm">
+      <img src="{{ url_for('static', filename='images/pics/' ~ category|lower ~ '.png') }}"
+           class="card-img-top item-thumb" alt="{{ category }}">
+      <div class="card-body text-center">
+        <h5 class="card-title">{{ category }}</h5>
+        <a href="{{ url_for('category_view', category=category) }}" class="btn btn-primary">Explore</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h2>Order Confirmation</h2>
+
+<p><strong>Order ID:</strong> {{ order.order_id }}</p>
+<p><strong>Name:</strong> {{ order.user }}</p>
+<p><strong>Email:</strong> {{ order.email }}</p>
+<p><strong>Address:</strong> {{ order.address }}</p>
+<p><strong>Date:</strong> {{ order.datetime }}</p>
+
+<h4 class="mt-4">Items:</h4>
+<ul class="list-group mb-3">
+  {% for item in order.items %}
+    <li class="list-group-item d-flex justify-content-between">
+      {{ item.name }} (x{{ item.quantity }})
+      <span>${{ (item.subtotal / 100)|round(2) }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+<h4>Total Paid: ${{ (order.total / 100)|round(2) }}</h4>
+
+<a href="{{ url_for('index') }}" class="btn btn-primary mt-3">Back to Shop</a>
+{% endblock %}

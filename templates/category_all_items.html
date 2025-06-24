@@ -1,0 +1,31 @@
+{% extends 'layout.html' %}
+
+{% block breadcrumbs %}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{{ url_for('index') }}">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{ category }}</li>
+  </ol>
+</nav>
+{% endblock %}
+
+{% block content %}
+<h2>{{ category }}</h2>
+<div class="row">
+  {% for item in items %}
+  <div class="col-md-4">
+    <div class="card mb-4">
+      <img src="{{ item.image_url }}" class="card-img-top item-thumb" alt="{{ item.name }}">
+      <div class="card-body">
+        <h5 class="card-title">{{ item.name }}</h5>
+        <p class="card-text">{{ item.description }}</p>
+        <p><strong>${{ "%.2f"|format(item.price / 100) }}</strong></p>
+        <a href="{{ url_for('item_detail', item_id=item.id) }}" class="btn btn-primary">View</a>
+        <a href="{{ url_for('add_to_cart', item_id=item.id) }}" class="btn btn-success">Add to Cart</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<a href="{{ url_for('index') }}" class="btn btn-secondary">Back to All Categories</a>
+{% endblock %}

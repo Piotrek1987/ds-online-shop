@@ -1,0 +1,1163 @@
+[
+  {
+    "id": 1,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Battle Axe",
+    "description": "Battle Axe is a powerful axes from the weapons category.",
+    "price": 1401,
+    "image_url": "/static/images/weapons/axes/battle_axe.png"
+  },
+  {
+    "id": 2,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Black Knight Greataxe",
+    "description": "Black Knight Greataxe is a powerful axes from the weapons category.",
+    "price": 555,
+    "image_url": "/static/images/weapons/axes/black_knight_greataxe.png"
+  },
+  {
+    "id": 3,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Butcher Knife",
+    "description": "Butcher Knife is a powerful axes from the weapons category.",
+    "price": 1246,
+    "image_url": "/static/images/weapons/axes/butcher_knife.png"
+  },
+  {
+    "id": 4,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Demons Greataxe",
+    "description": "Demons Greataxe is a powerful axes from the weapons category.",
+    "price": 3266,
+    "image_url": "/static/images/weapons/axes/demons_greataxe.png"
+  },
+  {
+    "id": 5,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Gargoyle Tail Axe",
+    "description": "Gargoyle Tail Axe is a powerful axes from the weapons category.",
+    "price": 4320,
+    "image_url": "/static/images/weapons/axes/gargoyle_tail_axe.png"
+  },
+  {
+    "id": 6,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Greataxe",
+    "description": "Greataxe is a powerful axes from the weapons category.",
+    "price": 604,
+    "image_url": "/static/images/weapons/axes/greataxe.png"
+  },
+  {
+    "id": 7,
+    "category": "Weapons",
+    "subcategory": "Axes",
+    "name": "Hand Axe",
+    "description": "Hand Axe is a powerful axes from the weapons category.",
+    "price": 3140,
+    "image_url": "/static/images/weapons/axes/hand_axe.png"
+  },
+  {
+    "id": 8,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Avelyn",
+    "description": "Avelyn is a powerful bows from the weapons category.",
+    "price": 786,
+    "image_url": "/static/images/weapons/bows/avelyn.png"
+  },
+  {
+    "id": 9,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Dragonslayer Greatbow",
+    "description": "Dragonslayer Greatbow is a powerful bows from the weapons category.",
+    "price": 3655,
+    "image_url": "/static/images/weapons/bows/dragonslayer_greatbow.png"
+  },
+  {
+    "id": 10,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Gough'S Greatbow",
+    "description": "Gough'S Greatbow is a powerful bows from the weapons category.",
+    "price": 3045,
+    "image_url": "/static/images/weapons/bows/Gough's Greatbow.png"
+  },
+  {
+    "id": 11,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Heavy Crossbow",
+    "description": "Heavy Crossbow is a powerful bows from the weapons category.",
+    "price": 4808,
+    "image_url": "/static/images/weapons/bows/heavy_crossbow.png"
+  },
+  {
+    "id": 12,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Light Crossbow",
+    "description": "Light Crossbow is a powerful bows from the weapons category.",
+    "price": 4124,
+    "image_url": "/static/images/weapons/bows/light_crossbow.png"
+  },
+  {
+    "id": 13,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Longbow",
+    "description": "Longbow is a powerful bows from the weapons category.",
+    "price": 962,
+    "image_url": "/static/images/weapons/bows/longbow.png"
+  },
+  {
+    "id": 14,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Short Bow",
+    "description": "Short Bow is a powerful bows from the weapons category.",
+    "price": 811,
+    "image_url": "/static/images/weapons/bows/short_bow.png"
+  },
+  {
+    "id": 15,
+    "category": "Weapons",
+    "subcategory": "Bows",
+    "name": "Sniper Crossbow",
+    "description": "Sniper Crossbow is a powerful bows from the weapons category.",
+    "price": 1920,
+    "image_url": "/static/images/weapons/bows/sniper_crossbow.png"
+  },
+  {
+    "id": 16,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Blacksmith Giant Hammer",
+    "description": "Blacksmith Giant Hammer is a powerful hammers from the weapons category.",
+    "price": 1721,
+    "image_url": "/static/images/weapons/hammers/blacksmith_giant_hammer.png"
+  },
+  {
+    "id": 17,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Blacksmith Hammer",
+    "description": "Blacksmith Hammer is a powerful hammers from the weapons category.",
+    "price": 1049,
+    "image_url": "/static/images/weapons/hammers/blacksmith_hammer.png"
+  },
+  {
+    "id": 18,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Demons Great Hammer",
+    "description": "Demons Great Hammer is a powerful hammers from the weapons category.",
+    "price": 1419,
+    "image_url": "/static/images/weapons/hammers/demons_great_hammer.png"
+  },
+  {
+    "id": 19,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Dragon Tooth",
+    "description": "Dragon Tooth is a powerful hammers from the weapons category.",
+    "price": 4495,
+    "image_url": "/static/images/weapons/hammers/dragon_tooth.png"
+  },
+  {
+    "id": 20,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Great Club",
+    "description": "Great Club is a powerful hammers from the weapons category.",
+    "price": 4999,
+    "image_url": "/static/images/weapons/hammers/great_club.png"
+  },
+  {
+    "id": 21,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Hammer Of Vamos",
+    "description": "Hammer Of Vamos is a powerful hammers from the weapons category.",
+    "price": 4305,
+    "image_url": "/static/images/weapons/hammers/hammer_of_vamos.png"
+  },
+  {
+    "id": 22,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Mace",
+    "description": "Mace is a powerful hammers from the weapons category.",
+    "price": 4015,
+    "image_url": "/static/images/weapons/hammers/mace.png"
+  },
+  {
+    "id": 23,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Morning Star",
+    "description": "Morning Star is a powerful hammers from the weapons category.",
+    "price": 3616,
+    "image_url": "/static/images/weapons/hammers/morning_star.png"
+  },
+  {
+    "id": 24,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Smoughs Hammer 1",
+    "description": "Smoughs Hammer 1 is a powerful hammers from the weapons category.",
+    "price": 4631,
+    "image_url": "/static/images/weapons/hammers/smoughs_hammer_1.png"
+  },
+  {
+    "id": 25,
+    "category": "Weapons",
+    "subcategory": "Hammers",
+    "name": "Warpick",
+    "description": "Warpick is a powerful hammers from the weapons category.",
+    "price": 1562,
+    "image_url": "/static/images/weapons/hammers/warpick.png"
+  },
+  {
+    "id": 26,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Black Knight Halberd",
+    "description": "Black Knight Halberd is a powerful spears from the weapons category.",
+    "price": 874,
+    "image_url": "/static/images/weapons/spears/black_knight_halberd.png"
+  },
+  {
+    "id": 27,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Demons Spear",
+    "description": "Demons Spear is a powerful spears from the weapons category.",
+    "price": 1558,
+    "image_url": "/static/images/weapons/spears/demons_spear.png"
+  },
+  {
+    "id": 28,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Gargoyles Halberd",
+    "description": "Gargoyles Halberd is a powerful spears from the weapons category.",
+    "price": 1159,
+    "image_url": "/static/images/weapons/spears/gargoyles_halberd.png"
+  },
+  {
+    "id": 29,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Great Scythe",
+    "description": "Great Scythe is a powerful spears from the weapons category.",
+    "price": 1203,
+    "image_url": "/static/images/weapons/spears/great_scythe.png"
+  },
+  {
+    "id": 30,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Lucerne",
+    "description": "Lucerne is a powerful spears from the weapons category.",
+    "price": 1639,
+    "image_url": "/static/images/weapons/spears/lucerne.png"
+  },
+  {
+    "id": 31,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Moonlight Butterfly Horn 9",
+    "description": "Moonlight Butterfly Horn 9 is a powerful spears from the weapons category.",
+    "price": 3860,
+    "image_url": "/static/images/weapons/spears/moonlight_butterfly_horn_9.png"
+  },
+  {
+    "id": 32,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Silver Knight Spear",
+    "description": "Silver Knight Spear is a powerful spears from the weapons category.",
+    "price": 3807,
+    "image_url": "/static/images/weapons/spears/silver_knight_spear.png"
+  },
+  {
+    "id": 33,
+    "category": "Weapons",
+    "subcategory": "Spears",
+    "name": "Titanite Catch Pole",
+    "description": "Titanite Catch Pole is a powerful spears from the weapons category.",
+    "price": 3547,
+    "image_url": "/static/images/weapons/spears/titanite_catch_pole.png"
+  },
+  {
+    "id": 34,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Black Knight Greatsword",
+    "description": "Black Knight Greatsword is a powerful swords from the weapons category.",
+    "price": 1455,
+    "image_url": "/static/images/weapons/swords/black_knight_greatsword.png"
+  },
+  {
+    "id": 35,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Black Knight Sword",
+    "description": "Black Knight Sword is a powerful swords from the weapons category.",
+    "price": 2477,
+    "image_url": "/static/images/weapons/swords/black_knight_sword.png"
+  },
+  {
+    "id": 36,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Broadsword",
+    "description": "Broadsword is a powerful swords from the weapons category.",
+    "price": 1661,
+    "image_url": "/static/images/weapons/swords/broadsword.png"
+  },
+  {
+    "id": 37,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Claymore",
+    "description": "Claymore is a powerful swords from the weapons category.",
+    "price": 3284,
+    "image_url": "/static/images/weapons/swords/claymore.png"
+  },
+  {
+    "id": 38,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Demon Great Machete",
+    "description": "Demon Great Machete is a powerful swords from the weapons category.",
+    "price": 4684,
+    "image_url": "/static/images/weapons/swords/demon_great_machete.png"
+  },
+  {
+    "id": 39,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Drake Sword",
+    "description": "Drake Sword is a powerful swords from the weapons category.",
+    "price": 768,
+    "image_url": "/static/images/weapons/swords/Drake_Sword.png"
+  },
+  {
+    "id": 40,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Estoc",
+    "description": "Estoc is a powerful swords from the weapons category.",
+    "price": 3675,
+    "image_url": "/static/images/weapons/swords/estoc.png"
+  },
+  {
+    "id": 41,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Gold Tracer",
+    "description": "Gold Tracer is a powerful swords from the weapons category.",
+    "price": 2837,
+    "image_url": "/static/images/weapons/swords/Gold Tracer.png"
+  },
+  {
+    "id": 42,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Greatsword Of Artorias",
+    "description": "Greatsword Of Artorias is a powerful swords from the weapons category.",
+    "price": 4617,
+    "image_url": "/static/images/weapons/swords/greatsword_of_artorias.png"
+  },
+  {
+    "id": 43,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Jagged Ghost Blade",
+    "description": "Jagged Ghost Blade is a powerful swords from the weapons category.",
+    "price": 2545,
+    "image_url": "/static/images/weapons/swords/jagged_ghost_blade.png"
+  },
+  {
+    "id": 44,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Longsword",
+    "description": "Longsword is a powerful swords from the weapons category.",
+    "price": 3784,
+    "image_url": "/static/images/weapons/swords/Longsword.png"
+  },
+  {
+    "id": 45,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Quelaags Furysword",
+    "description": "Quelaags Furysword is a powerful swords from the weapons category.",
+    "price": 3064,
+    "image_url": "/static/images/weapons/swords/quelaags_furysword.png"
+  },
+  {
+    "id": 46,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Shortsword",
+    "description": "Shortsword is a powerful swords from the weapons category.",
+    "price": 610,
+    "image_url": "/static/images/weapons/swords/shortsword.png"
+  },
+  {
+    "id": 47,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Uchigatana",
+    "description": "Uchigatana is a powerful swords from the weapons category.",
+    "price": 931,
+    "image_url": "/static/images/weapons/swords/uchigatana.png"
+  },
+  {
+    "id": 48,
+    "category": "Weapons",
+    "subcategory": "Swords",
+    "name": "Zweihander",
+    "description": "Zweihander is a powerful swords from the weapons category.",
+    "price": 1022,
+    "image_url": "/static/images/weapons/swords/zweihander.png"
+  },
+  {
+    "id": 49,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Gravelord Sword Dance",
+    "description": "Gravelord Sword Dance is a powerful miracles from the spells category.",
+    "price": 3385,
+    "image_url": "/static/images/spells/miracles/Gravelord_Sword_Dance.png"
+  },
+  {
+    "id": 50,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Heal",
+    "description": "Heal is a powerful miracles from the spells category.",
+    "price": 3187,
+    "image_url": "/static/images/spells/miracles/Heal.png"
+  },
+  {
+    "id": 51,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Homeward",
+    "description": "Homeward is a powerful miracles from the spells category.",
+    "price": 2428,
+    "image_url": "/static/images/spells/miracles/Homeward.png"
+  },
+  {
+    "id": 52,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Karmic Justice",
+    "description": "Karmic Justice is a powerful miracles from the spells category.",
+    "price": 942,
+    "image_url": "/static/images/spells/miracles/Karmic_Justice.PNG"
+  },
+  {
+    "id": 53,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Lightning Spear",
+    "description": "Lightning Spear is a powerful miracles from the spells category.",
+    "price": 4984,
+    "image_url": "/static/images/spells/miracles/Lightning_Spear.png"
+  },
+  {
+    "id": 54,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Magic Barrier",
+    "description": "Magic Barrier is a powerful miracles from the spells category.",
+    "price": 2227,
+    "image_url": "/static/images/spells/miracles/Magic_Barrier.png"
+  },
+  {
+    "id": 55,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Replenishment",
+    "description": "Replenishment is a powerful miracles from the spells category.",
+    "price": 2585,
+    "image_url": "/static/images/spells/miracles/Replenishment.png"
+  },
+  {
+    "id": 56,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Seek Guidance",
+    "description": "Seek Guidance is a powerful miracles from the spells category.",
+    "price": 731,
+    "image_url": "/static/images/spells/miracles/Seek_Guidance.png"
+  },
+  {
+    "id": 57,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Sunlight Blade",
+    "description": "Sunlight Blade is a powerful miracles from the spells category.",
+    "price": 910,
+    "image_url": "/static/images/spells/miracles/Sunlight_Blade.png"
+  },
+  {
+    "id": 58,
+    "category": "Spells",
+    "subcategory": "Miracles",
+    "name": "Wrath Of The Gods",
+    "description": "Wrath Of The Gods is a powerful miracles from the spells category.",
+    "price": 1087,
+    "image_url": "/static/images/spells/miracles/Wrath_of_the_Gods.png"
+  },
+  {
+    "id": 59,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Chaos Storm",
+    "description": "Chaos Storm is a powerful pyromancies from the spells category.",
+    "price": 3447,
+    "image_url": "/static/images/spells/pyromancies/Chaos_Storm.png"
+  },
+  {
+    "id": 60,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Combustion",
+    "description": "Combustion is a powerful pyromancies from the spells category.",
+    "price": 2129,
+    "image_url": "/static/images/spells/pyromancies/Combustion.png"
+  },
+  {
+    "id": 61,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Fireball",
+    "description": "Fireball is a powerful pyromancies from the spells category.",
+    "price": 1043,
+    "image_url": "/static/images/spells/pyromancies/Fireball.png"
+  },
+  {
+    "id": 62,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Firestorm",
+    "description": "Firestorm is a powerful pyromancies from the spells category.",
+    "price": 2015,
+    "image_url": "/static/images/spells/pyromancies/Firestorm.png"
+  },
+  {
+    "id": 63,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Fire Orb",
+    "description": "Fire Orb is a powerful pyromancies from the spells category.",
+    "price": 3459,
+    "image_url": "/static/images/spells/pyromancies/Fire_Orb.png"
+  },
+  {
+    "id": 64,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Fire Surge",
+    "description": "Fire Surge is a powerful pyromancies from the spells category.",
+    "price": 3993,
+    "image_url": "/static/images/spells/pyromancies/Fire_Surge.png"
+  },
+  {
+    "id": 65,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Great Chaos Fireball",
+    "description": "Great Chaos Fireball is a powerful pyromancies from the spells category.",
+    "price": 3448,
+    "image_url": "/static/images/spells/pyromancies/Great_Chaos_Fireball.png"
+  },
+  {
+    "id": 66,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Great Fireball",
+    "description": "Great Fireball is a powerful pyromancies from the spells category.",
+    "price": 1905,
+    "image_url": "/static/images/spells/pyromancies/Great_Fireball.png"
+  },
+  {
+    "id": 67,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Poison Mist",
+    "description": "Poison Mist is a powerful pyromancies from the spells category.",
+    "price": 944,
+    "image_url": "/static/images/spells/pyromancies/Poison_Mist.png"
+  },
+  {
+    "id": 68,
+    "category": "Spells",
+    "subcategory": "Pyromancies",
+    "name": "Power Within",
+    "description": "Power Within is a powerful pyromancies from the spells category.",
+    "price": 667,
+    "image_url": "/static/images/spells/pyromancies/Power_Within.png"
+  },
+  {
+    "id": 69,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Aural Decoy",
+    "description": "Aural Decoy is a powerful sorceries from the spells category.",
+    "price": 3308,
+    "image_url": "/static/images/spells/sorceries/Aural_Decoy.png"
+  },
+  {
+    "id": 70,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Great Magic Weapon",
+    "description": "Great Magic Weapon is a powerful sorceries from the spells category.",
+    "price": 678,
+    "image_url": "/static/images/spells/sorceries/Great_Magic_Weapon.png"
+  },
+  {
+    "id": 71,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Heavy Soul Arrow",
+    "description": "Heavy Soul Arrow is a powerful sorceries from the spells category.",
+    "price": 2823,
+    "image_url": "/static/images/spells/sorceries/Heavy_Soul_Arrow.png"
+  },
+  {
+    "id": 72,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Hidden Body",
+    "description": "Hidden Body is a powerful sorceries from the spells category.",
+    "price": 1587,
+    "image_url": "/static/images/spells/sorceries/Hidden_Body.png"
+  },
+  {
+    "id": 73,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Hidden Weapon",
+    "description": "Hidden Weapon is a powerful sorceries from the spells category.",
+    "price": 1170,
+    "image_url": "/static/images/spells/sorceries/Hidden_Weapon.png"
+  },
+  {
+    "id": 74,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Homing Soulmass",
+    "description": "Homing Soulmass is a powerful sorceries from the spells category.",
+    "price": 2252,
+    "image_url": "/static/images/spells/sorceries/Homing_Soulmass.png"
+  },
+  {
+    "id": 75,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Hush",
+    "description": "Hush is a powerful sorceries from the spells category.",
+    "price": 661,
+    "image_url": "/static/images/spells/sorceries/Hush.png"
+  },
+  {
+    "id": 76,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Soul Arrow",
+    "description": "Soul Arrow is a powerful sorceries from the spells category.",
+    "price": 3051,
+    "image_url": "/static/images/spells/sorceries/Soul_Arrow.png"
+  },
+  {
+    "id": 77,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "Soul Spear",
+    "description": "Soul Spear is a powerful sorceries from the spells category.",
+    "price": 2085,
+    "image_url": "/static/images/spells/sorceries/Soul_Spear.png"
+  },
+  {
+    "id": 78,
+    "category": "Spells",
+    "subcategory": "Sorceries",
+    "name": "White Dragon Breath",
+    "description": "White Dragon Breath is a powerful sorceries from the spells category.",
+    "price": 1942,
+    "image_url": "/static/images/spells/sorceries/White_Dragon_Breath.png"
+  },
+  {
+    "id": 79,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Black Iron Greatshield",
+    "description": "Black Iron Greatshield is a powerful . from the shields category.",
+    "price": 3195,
+    "image_url": "/static/images/shields/black_iron_greatshield.png"
+  },
+  {
+    "id": 80,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Black Knight Shield",
+    "description": "Black Knight Shield is a powerful . from the shields category.",
+    "price": 4060,
+    "image_url": "/static/images/shields/black_knight_shield.png"
+  },
+  {
+    "id": 81,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Bloodshield",
+    "description": "Bloodshield is a powerful . from the shields category.",
+    "price": 2490,
+    "image_url": "/static/images/shields/bloodshield.png"
+  },
+  {
+    "id": 82,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Bonewheel Shield",
+    "description": "Bonewheel Shield is a powerful . from the shields category.",
+    "price": 1075,
+    "image_url": "/static/images/shields/bonewheel_shield.png"
+  },
+  {
+    "id": 83,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Buckler",
+    "description": "Buckler is a powerful . from the shields category.",
+    "price": 3400,
+    "image_url": "/static/images/shields/buckler.png"
+  },
+  {
+    "id": 84,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Crystal Ring Shield 1",
+    "description": "Crystal Ring Shield 1 is a powerful . from the shields category.",
+    "price": 1554,
+    "image_url": "/static/images/shields/crystal_ring_shield_1.png"
+  },
+  {
+    "id": 85,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Eagle Shield",
+    "description": "Eagle Shield is a powerful . from the shields category.",
+    "price": 1672,
+    "image_url": "/static/images/shields/eagle_shield.png"
+  },
+  {
+    "id": 86,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Gargoyles Shield",
+    "description": "Gargoyles Shield is a powerful . from the shields category.",
+    "price": 3357,
+    "image_url": "/static/images/shields/gargoyles_shield.png"
+  },
+  {
+    "id": 87,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Giant Shield",
+    "description": "Giant Shield is a powerful . from the shields category.",
+    "price": 1530,
+    "image_url": "/static/images/shields/giant_shield.png"
+  },
+  {
+    "id": 88,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Greatshield Of Artorias 1",
+    "description": "Greatshield Of Artorias 1 is a powerful . from the shields category.",
+    "price": 2015,
+    "image_url": "/static/images/shields/greatshield_of_artorias_1.png"
+  },
+  {
+    "id": 89,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Havels Greatshield",
+    "description": "Havels Greatshield is a powerful . from the shields category.",
+    "price": 2715,
+    "image_url": "/static/images/shields/havels_greatshield.png"
+  },
+  {
+    "id": 90,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Knight Shield",
+    "description": "Knight Shield is a powerful . from the shields category.",
+    "price": 2325,
+    "image_url": "/static/images/shields/knight_shield.png"
+  },
+  {
+    "id": 91,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Plank Shield",
+    "description": "Plank Shield is a powerful . from the shields category.",
+    "price": 3433,
+    "image_url": "/static/images/shields/plank_shield.png"
+  },
+  {
+    "id": 92,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Sanctus",
+    "description": "Sanctus is a powerful . from the shields category.",
+    "price": 3771,
+    "image_url": "/static/images/shields/sanctus.png"
+  },
+  {
+    "id": 93,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Silver Knight Shield",
+    "description": "Silver Knight Shield is a powerful . from the shields category.",
+    "price": 4201,
+    "image_url": "/static/images/shields/silver_knight_shield.png"
+  },
+  {
+    "id": 94,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Spider Shield",
+    "description": "Spider Shield is a powerful . from the shields category.",
+    "price": 802,
+    "image_url": "/static/images/shields/spider_shield.png"
+  },
+  {
+    "id": 95,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Sunlight Shield",
+    "description": "Sunlight Shield is a powerful . from the shields category.",
+    "price": 4328,
+    "image_url": "/static/images/shields/sunlight_shield.png"
+  },
+  {
+    "id": 96,
+    "category": "Shields",
+    "subcategory": ".",
+    "name": "Tower Shield",
+    "description": "Tower Shield is a powerful . from the shields category.",
+    "price": 1215,
+    "image_url": "/static/images/shields/tower_shield.png"
+  },
+  {
+    "id": 97,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Blue Tearstone Ring",
+    "description": "Blue Tearstone Ring is a powerful . from the rings category.",
+    "price": 958,
+    "image_url": "/static/images/rings/Blue-Tearstone-Ring.png"
+  },
+  {
+    "id": 98,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Calamity Ring",
+    "description": "Calamity Ring is a powerful . from the rings category.",
+    "price": 1444,
+    "image_url": "/static/images/rings/Calamity-Ring.png"
+  },
+  {
+    "id": 99,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Cloranthy Ring",
+    "description": "Cloranthy Ring is a powerful . from the rings category.",
+    "price": 1614,
+    "image_url": "/static/images/rings/Cloranthy-Ring.png"
+  },
+  {
+    "id": 100,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Covenant Of Artorias",
+    "description": "Covenant Of Artorias is a powerful . from the rings category.",
+    "price": 2270,
+    "image_url": "/static/images/rings/Covenant-of-Artorias.png"
+  },
+  {
+    "id": 101,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Havel'S Ring",
+    "description": "Havel'S Ring is a powerful . from the rings category.",
+    "price": 635,
+    "image_url": "/static/images/rings/Havel's-Ring.png"
+  },
+  {
+    "id": 102,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Orange Charred Ring",
+    "description": "Orange Charred Ring is a powerful . from the rings category.",
+    "price": 1689,
+    "image_url": "/static/images/rings/Orange-Charred-Ring.png"
+  },
+  {
+    "id": 103,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Rare Ring Of Sacrifice",
+    "description": "Rare Ring Of Sacrifice is a powerful . from the rings category.",
+    "price": 1989,
+    "image_url": "/static/images/rings/Rare-Ring-of-Sacrifice.png"
+  },
+  {
+    "id": 104,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Red Tearstone Ring",
+    "description": "Red Tearstone Ring is a powerful . from the rings category.",
+    "price": 3707,
+    "image_url": "/static/images/rings/Red-Tearstone-Ring.png"
+  },
+  {
+    "id": 105,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Ring Of Favor And Protection",
+    "description": "Ring Of Favor And Protection is a powerful . from the rings category.",
+    "price": 1265,
+    "image_url": "/static/images/rings/Ring-of-Favor-and-Protection.png"
+  },
+  {
+    "id": 106,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Ring Of Fog",
+    "description": "Ring Of Fog is a powerful . from the rings category.",
+    "price": 3769,
+    "image_url": "/static/images/rings/Ring-of-Fog.png"
+  },
+  {
+    "id": 107,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Ring Of Steel Protection",
+    "description": "Ring Of Steel Protection is a powerful . from the rings category.",
+    "price": 1755,
+    "image_url": "/static/images/rings/Ring-of-Steel-Protection.png"
+  },
+  {
+    "id": 108,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Slumbering Dragoncrest Ring",
+    "description": "Slumbering Dragoncrest Ring is a powerful . from the rings category.",
+    "price": 3946,
+    "image_url": "/static/images/rings/Slumbering-Dragoncrest-Ring.png"
+  },
+  {
+    "id": 109,
+    "category": "Rings",
+    "subcategory": ".",
+    "name": "Tiny Being'S Ring",
+    "description": "Tiny Being'S Ring is a powerful . from the rings category.",
+    "price": 1300,
+    "image_url": "/static/images/rings/Tiny-Being's-Ring.png"
+  },
+  {
+    "id": 110,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Armor Smithbox",
+    "description": "Armor Smithbox is a powerful . from the items category.",
+    "price": 3015,
+    "image_url": "/static/images/items/armor_smithbox.png"
+  },
+  {
+    "id": 111,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Bottomless Box",
+    "description": "Bottomless Box is a powerful . from the items category.",
+    "price": 878,
+    "image_url": "/static/images/items/bottomless_box.png"
+  },
+  {
+    "id": 112,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Crest Of Artorias",
+    "description": "Crest Of Artorias is a powerful . from the items category.",
+    "price": 3465,
+    "image_url": "/static/images/items/crest-of-artorias.png"
+  },
+  {
+    "id": 113,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Demon Titanite",
+    "description": "Demon Titanite is a powerful . from the items category.",
+    "price": 4744,
+    "image_url": "/static/images/items/demon-titanite.png"
+  },
+  {
+    "id": 114,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Dragon Scale",
+    "description": "Dragon Scale is a powerful . from the items category.",
+    "price": 2295,
+    "image_url": "/static/images/items/dragon-scale.png"
+  },
+  {
+    "id": 115,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Estus",
+    "description": "Estus is a powerful . from the items category.",
+    "price": 2820,
+    "image_url": "/static/images/items/estus.png"
+  },
+  {
+    "id": 116,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Firekeepers Soul",
+    "description": "Firekeepers Soul is a powerful . from the items category.",
+    "price": 3798,
+    "image_url": "/static/images/items/firekeepers-soul.png"
+  },
+  {
+    "id": 117,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Goldpine Resin",
+    "description": "Goldpine Resin is a powerful . from the items category.",
+    "price": 3517,
+    "image_url": "/static/images/items/goldpine-resin.png"
+  },
+  {
+    "id": 118,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Homeward Bone",
+    "description": "Homeward Bone is a powerful . from the items category.",
+    "price": 751,
+    "image_url": "/static/images/items/homeward-bone.png"
+  },
+  {
+    "id": 119,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Humanity",
+    "description": "Humanity is a powerful . from the items category.",
+    "price": 2602,
+    "image_url": "/static/images/items/humanity.png"
+  },
+  {
+    "id": 120,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Large Titanite Shard",
+    "description": "Large Titanite Shard is a powerful . from the items category.",
+    "price": 2924,
+    "image_url": "/static/images/items/large-titanite-shard.png"
+  },
+  {
+    "id": 121,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Lordvessel",
+    "description": "Lordvessel is a powerful . from the items category.",
+    "price": 4683,
+    "image_url": "/static/images/items/Lordvessel.png"
+  },
+  {
+    "id": 122,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Master Key",
+    "description": "Master Key is a powerful . from the items category.",
+    "price": 1912,
+    "image_url": "/static/images/items/master-key.png"
+  },
+  {
+    "id": 123,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Peculiar Doll",
+    "description": "Peculiar Doll is a powerful . from the items category.",
+    "price": 1861,
+    "image_url": "/static/images/items/peculiar-doll.png"
+  },
+  {
+    "id": 124,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Purging Stone",
+    "description": "Purging Stone is a powerful . from the items category.",
+    "price": 1794,
+    "image_url": "/static/images/items/purging-stone.png"
+  },
+  {
+    "id": 125,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Rite Of Kindling",
+    "description": "Rite Of Kindling is a powerful . from the items category.",
+    "price": 2982,
+    "image_url": "/static/images/items/Rite_of_Kindling.png"
+  },
+  {
+    "id": 126,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Titanite Shard",
+    "description": "Titanite Shard is a powerful . from the items category.",
+    "price": 4325,
+    "image_url": "/static/images/items/titanite-shard.png"
+  },
+  {
+    "id": 127,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Transient Curse",
+    "description": "Transient Curse is a powerful . from the items category.",
+    "price": 4585,
+    "image_url": "/static/images/items/transient-curse.png"
+  },
+  {
+    "id": 128,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Twin Humanities",
+    "description": "Twin Humanities is a powerful . from the items category.",
+    "price": 4701,
+    "image_url": "/static/images/items/twin-humanities.png"
+  },
+  {
+    "id": 129,
+    "category": "Items",
+    "subcategory": ".",
+    "name": "Twinkling Titanite",
+    "description": "Twinkling Titanite is a powerful . from the items category.",
+    "price": 900,
+    "image_url": "/static/images/items/twinkling-titanite.png"
+  }
+]
